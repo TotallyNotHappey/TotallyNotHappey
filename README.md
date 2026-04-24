@@ -12,6 +12,6 @@
 
 # ok
 
-# :trollface:
+# <img src="Media/smile.gif">
 
 </h3>
