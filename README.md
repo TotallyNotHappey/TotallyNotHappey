@@ -10,7 +10,7 @@
 
 # hi
 
-## hi
+## <img src="Media/hi.gif">
 
 # ok
 
