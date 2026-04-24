@@ -1,8 +1,8 @@
 <h3 align="center">
-<img src="Media/cute.png" align="center" width="1000"/>
+<img src="Media/fan.gif" align="center" width="500"/>
 
 <h3 align="center">
-<img src="Media/fan.gif" align="center">
+<img src="Media/cute.png" align="center" width="1000"/>
 
 <h3 align="center">
 <img src="Media/Telefrag.gif" align="center" width="300"/>
