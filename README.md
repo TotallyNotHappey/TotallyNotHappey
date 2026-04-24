@@ -1,4 +1,7 @@
 <h3 align="center">
+<img src="Media/happey.png" align="center"/>
+
+<h3 align="center">
 <img src="Media/fan.gif" align="center" width="250"/>
 
 <h3 align="center">
