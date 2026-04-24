@@ -1,8 +1,6 @@
 <h3 align="center">
 <img src="Media/fan.gif" align="center">
 
-<img src="Media/smile.gif" align="center"> <img src="Media/hi.gif" align="center"> <img src="Media/smile.gif" align="center">
-
 <h3 align="center">
 <img src="Media/Earth.gif" align="center" width="300"/>
 <h3 align="center">
@@ -10,10 +8,10 @@
 
 # hi
 
-## <img src="Media/hi.gif">
+# <img src="Media/hi.gif">
 
 # ok
 
-## :trollface:
+# :trollface:
 
 </h3>
