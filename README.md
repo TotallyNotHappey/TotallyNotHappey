@@ -1,5 +1,5 @@
 <h3 align="center">
-<img src="Media/cute.png" align="center" width="1500"/>
+<img src="Media/cute.png" align="center" width="1000"/>
 
 <h3 align="center">
 <img src="Media/fan.gif" align="center">
