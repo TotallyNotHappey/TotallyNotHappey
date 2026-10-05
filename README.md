@@ -2,9 +2,6 @@
 <img src="Media/Happey.png" align="center" width="1500"/>
 
 <h3 align="center">
-<img src="Media/fan.gif" align="center" width="250"/>
-
-<h3 align="center">
 <img src="Media/Telefrag.gif" align="center" width="300"/>
 <h3 align="center">
   <p>𝒹𝒾𝒹𝒹𝓎𝒷𝓁𝓊𝒹</p>
